@@ -1,7 +1,7 @@
 
 # Sociedade Espírita de Educação Semente de Luz - SELUZ
 
-![](icone-seluz.png) [Nosso site](http://www.seluz.org.br)
+![](./icone-seluz.png) [Nosso site](http://www.seluz.org.br)
 
 
 #### Criada em 1988 por um pequeno grupo de voluntários, a Sociedade Espírita de Educação Semente de Luz - SELUZ, possui caráter filantrópico e beneficente.
