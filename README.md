@@ -7,5 +7,4 @@
 #### Criada em 1988 por um pequeno grupo de voluntários, a Sociedade Espírita de Educação Semente de Luz - SELUZ, possui caráter filantrópico e beneficente.
 
 ## E-mails
-##### administrativo@seluz.org.br
 ##### seluz@seluz.org.br
