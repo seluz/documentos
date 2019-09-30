@@ -1,7 +1,7 @@
 
 # Sociedade Espírita de Educação Semente de Luz - SELUZ
 
-![](/icone-seluz.png)
+![](../master/icone-seluz.png)
 [Nosso site](http://www.seluz.org.br)
 
 
